@@ -57,6 +57,8 @@ fastapi-graphql-react/
 
 ### Running the Project (Docker)
 
+create a .env file in the project root directory and copy the contents of the .env-sample to the .env file.
+
 Make sure you have Docker installed.
 
 1. **Build and start the services:**
