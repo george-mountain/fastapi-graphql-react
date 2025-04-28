@@ -1,0 +1,12 @@
+fastapi
+strawberry-graphql[fastapi]
+asyncpg
+sqlalchemy[asyncio]
+alembic
+python-dotenv
+uvicorn
+pydantic
+python-jose[cryptography] 
+passlib[bcrypt]
+PyJWT
+python-multipart
