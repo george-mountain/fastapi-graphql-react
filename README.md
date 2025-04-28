@@ -2,7 +2,7 @@
 ## FastAPI-GraphQL-React Project
 
 
-This project is a **hands-on guide** designed to help you learn **how to implement GraphQL using FastAPI** and **consume the GraphQL API using ReactJS (Vite)**.  
+This project is one of my tutorials and  a **hands-on guide** designed to help you learn **how to implement GraphQL using FastAPI** and **consume the GraphQL API using ReactJS (Vite)**.  
 It's structured simply to help you understand how the backend and frontend connect and interact via GraphQL.
 
 ---
